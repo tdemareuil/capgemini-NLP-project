@@ -5,7 +5,7 @@ This repository will hold files related to a consulting misssion conducted in as
 The project will involve NLP to analyse reviews on TripAdvisor and provide recommendations about a new Accor hotel opening in London.
 
 Techniques to be implemented are:
-* data collection (scraping)
+* data collection (scrapping)
 * data cleaning
 * word embedding
 * topic extraction
