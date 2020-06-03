@@ -1,4 +1,4 @@
-# -Ongoing-Capgemini_NLP_project
+# Capgemini_NLP_project
 
 This repository will hold files related to a consulting misssion conducted in association with Capgemini in February-March 2020. MSc Data Science students teamed up with Capgemini Invent Consultants from the Paris office to conduct a mock consulting mission for AccorHotels UK.
 
